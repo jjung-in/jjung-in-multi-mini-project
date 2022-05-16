@@ -2,6 +2,7 @@
 
 /* 메인 영역 */
 #main {
+	min-height: calc(100vh - 225px);
 	padding: 135px 0 50px 0;
 }
 
